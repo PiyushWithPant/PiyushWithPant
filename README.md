@@ -3,7 +3,7 @@
 <!-- ![Welcome](https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/GokuPowerUp.gif) -->
 
 <p align="center">
-  <img src="https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/GokuPowerUp.gif" width="80%" alt="GIF" />
+  <img src="https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/Matrix.gif" width="80%" alt="GIF" />
 </p>
 
 
