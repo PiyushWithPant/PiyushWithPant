@@ -1,8 +1,10 @@
 
-![](https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/Matrix.gif)
 
+<!--![Welcome](https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/Matrix.gif) -->
 
-
+<p align="center">
+  <img src="https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/Matrix.gif" width="80%" alt="animated" />
+</p>
 
 
 <br />
