@@ -22,6 +22,9 @@
 
 #### <div align="center">Hi everyone! I am an AI student and an aspiring Machine Learning Engineer. I have made several hundred mini and big projects in various programming languages which you can find in my GitHub (some repos are private due to legal issues from concerned organization).</div>
 
+
+#### <div align="center">I adore AI, especially Reinforcement Learning. Currently, I am learning and focusing on advanced Machine Learning, Deep Learning, Image processing and NLP. I'm working on some big AI-based projects which will be out soon.</div>
+
 #### <div align="center">Along with AI/ML/Data Science skills, I am also a full stack web developer proficient in <img src=https://img.shields.io/badge/-MERN-lime alt=MERN style="" />. I have also participated in various International conferences sponsored by <img src=https://img.shields.io/badge/-IEEE-white alt=IEEE style="" /> & <img src=https://img.shields.io/badge/-Elsevier-orange alt=MERN style="" /> and presented my research work in applications of AI/ML in domains like Blockchain, Security, Climate change, IIoT, Industry 4.0, etc. </div>
 
 
@@ -29,11 +32,89 @@
 
 #### <div align="center">Feel free to contact me for collaboration, help or for anything i may be useful to you  :smile: </div> 
 
-<hr />
+<br />
 
 
-My skills are
+### <div align="center">AI/DS Skills</div>
+<div align="center">
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="Pytorch" height="50" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="Tensorflow" height="50" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+  
 
+</div>  
+
+
+<br />
+
+
+### <div align="center">Full-Stack Development Skills </div>
+
+<table><tr><td valign="top" width="33%">
+  
+### Frontend skills
+<div align="center">  
+
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="50" />  
+
+  
+<img style="margin: 10px" src="" alt="" height="50" />  
+
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend skills
+<div align="center">  
+  
+  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="NODEJS" height="50" />  
+ 
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /> 
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /> 
+
+  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Other Languages & skills  
+<div align="center">  
+  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="Cplusplus" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="java" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="Csharp" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="BASH" height="50" />
+
+</div>
+
+</td></tr></table>  
+
+<br />
+
+### <div align="center">Database Skills </div>
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="Mongodb" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="Postgre" height="50" /> 
+</div>
 
 <hr />
 
