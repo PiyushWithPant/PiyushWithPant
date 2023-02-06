@@ -41,8 +41,7 @@
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="Pytorch" height="50" />  
-<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="Tensorflow" height="50" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="Pytorch" height="50" />    
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
   
 
