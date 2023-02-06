@@ -1,15 +1,15 @@
 
 
-<!--![Welcome](https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/Matrix.gif) -->
+<!-- ![Welcome](https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/GokuPowerUp.gif) -->
 
 <p align="center">
-  <img src="https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/Matrix.gif" width="80%" alt="animated" />
+  <img src="https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/GokuPowerUp.gif" width="80%" alt="GIF" />
 </p>
 
 
 # <div align="center">Machine learning Engineer</div>  
 
-#### <div align="center">AKA Data Scientist, but Technical  </div> 
+#### <div align="center"> <i> AKA Data Scientist, but Technical </i>  </div> 
 
 <br />
 
@@ -19,14 +19,14 @@
 
 <hr />
 
-##### <div align="center">Hi everyone! I am an AI student and an aspiring Machine Learning Engineer. I have made several hundred mini and big projects in various programming languages which you can find in my GitHub (some repos are private due to legal issues from concerned organization).</div>
+#### <div align="center">Hi everyone! I am an AI student and an aspiring Machine Learning Engineer. I have made several hundred mini and big projects in various programming languages which you can find in my GitHub (some repos are private due to legal issues from concerned organization).</div>
 
-##### <div align="center">Along with AI/ML/Data Science skills, I am also a full stack web developer proficient in <img src=https://img.shields.io/badge/-MERN-lime alt=MERN style="" />. I have also participated in various International conferences sponsored by <img src=https://img.shields.io/badge/-IEEE-white alt=IEEE style="" /> & <img src=https://img.shields.io/badge/-Elsevier-orange alt=MERN style="" /> and presented my research work in applications of AI/ML in domains like Blockchain, Security, Climate change, IIoT, Industry 4.0, etc. </div>
-
-
+#### <div align="center">Along with AI/ML/Data Science skills, I am also a full stack web developer proficient in <img src=https://img.shields.io/badge/-MERN-lime alt=MERN style="" />. I have also participated in various International conferences sponsored by <img src=https://img.shields.io/badge/-IEEE-white alt=IEEE style="" /> & <img src=https://img.shields.io/badge/-Elsevier-orange alt=MERN style="" /> and presented my research work in applications of AI/ML in domains like Blockchain, Security, Climate change, IIoT, Industry 4.0, etc. </div>
 
 
-##### <div align="center">Feel free to contact me for collaboration, help or for anything i may be useful to you  :smile: </div> 
+
+
+#### <div align="center">Feel free to contact me for collaboration, help or for anything i may be useful to you  :smile: </div> 
 
 <hr />
 
@@ -39,7 +39,7 @@ My skills are
 <br />
 
 <div align="center">
-<a href="https://github.com/Piyush15072002" target="_blank">
+<a href="https://github.com/Piyush15072002" target=”_blank”>
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
