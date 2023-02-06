@@ -7,6 +7,35 @@
 </p>
 
 
+# <div align="center">Machine learning Engineer</div>  
+
+#### <div align="center">AKA Data Scientist, but Technical  </div> 
+
+<br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Piyush15072002&&style=flat-square" align="center" />
+</div>  
+
+<hr />
+
+##### <div align="center">Hi everyone! I am an AI student and an aspiring Machine Learning Engineer. I have made several hundred mini and big projects in various programming languages which you can find in my GitHub (some repos are private due to legal issues from concerned organization).</div>
+
+##### <div align="center">Along with AI/ML/Data Science skills, I am also a full stack web developer proficient in <img src=https://img.shields.io/badge/-MERN-lime alt=MERN style="" />. I have also participated in various International conferences sponsored by <img src=https://img.shields.io/badge/-IEEE-white alt=IEEE style="" /> & <img src=https://img.shields.io/badge/-Elsevier-orange alt=MERN style="" /> and presented my research work in applications of AI/ML in domains like Blockchain, Security, Climate change, IIoT, Industry 4.0, etc. </div>
+
+
+
+
+##### <div align="center">Feel free to contact me for collaboration, help or for anything i may be useful to you  :smile: </div> 
+
+<hr />
+
+
+My skills are
+
+
+<hr />
+
 <br />
 
 <div align="center">
@@ -59,6 +88,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Piyush15072002/count.svg" />
 </p>
+
+
 
 
 
