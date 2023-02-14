@@ -160,9 +160,15 @@
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Piyush15072002&show_icons=true&count_private=true&hide_border=true" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Piyush15072002&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
 </div>
 <br />
+
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush15072002&theme=radical&count_private=true&langs_count=10&layout=compact&exclude_repo=KNN-algorithm-for-IRIS-dataset,RECOMMENDER-SYSTEM-II,RECOMMENDER-SYSTEM,Salary-prediction,ANOMALY-DETECTION,K-MEANS,Car-Price-Prediction,DECISION-TREE,MULTICLASS-CLASSICATION-WITH-ANN-USING-TENSORFLOW,ANN-LAYERS-WITH-TENSORFLOW-AND-NUMPY,SMALL-NEURAL-NETWORK,CLASSIFICATION-LOGISTIC-REGRESSION-WITH-REGULARIZATION,REGULARIZATION-FOR-LINEAR-AND-LOGISTIC-REGRESSION,LOGISTIC-REGRESSION,Sigmoid-Function-Logistic-Regression,SUPERVISED-LEARNING-REGRESSION,UNIVARIATE-LINEAR-REGRESSION" align="center" />
+</div>
+
 
 
 <p align="center"> 
