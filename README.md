@@ -179,6 +179,55 @@
 
 
 
+<br /><br /><br />
+
+
+<div align="center">
+  
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=AI-for-Self-Driving-Car&theme=highcontrast" align="center" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=yelpcamp&theme=tokyonight" align="center" />
+</div>
+
+<br />
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=NewsApp-Project-ReactJS&theme=merko" align="center" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=Annoy-your-Friend-with-wisdom-per-minute&theme=onedark" align="center" /> 
+</div>
+
+
+<br />
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=KNN-algorithm-for-IRIS-dataset&theme=synthwave" align="center" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=REINFORCEMENT-LEARNING-USING-DQN&theme=cobalt" align="center" /> 
+</div>
+
+<br />
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=The-Infamous-Snake-Game&theme=radical" align="center" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=Password-Manager&theme=gruvbox" align="center" /> 
+</div>
+
+
+<br />
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=TextUtils&theme=dark" align="center" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=ANN-LAYERS-WITH-TENSORFLOW-AND-NUMPY&theme=dracula" align="center" /> 
+</div>
+
+
+
+
+
+
 
 
 
