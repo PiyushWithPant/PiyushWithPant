@@ -166,10 +166,11 @@
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush15072002&theme=radical&count_private=true&langs_count=10&layout=compact&exclude_repo=KNN-algorithm-for-IRIS-dataset,RECOMMENDER-SYSTEM-II,RECOMMENDER-SYSTEM,Salary-prediction,ANOMALY-DETECTION,K-MEANS,Car-Price-Prediction,DECISION-TREE,MULTICLASS-CLASSICATION-WITH-ANN-USING-TENSORFLOW,ANN-LAYERS-WITH-TENSORFLOW-AND-NUMPY,SMALL-NEURAL-NETWORK,CLASSIFICATION-LOGISTIC-REGRESSION-WITH-REGULARIZATION,REGULARIZATION-FOR-LINEAR-AND-LOGISTIC-REGRESSION,LOGISTIC-REGRESSION,Sigmoid-Function-Logistic-Regression,SUPERVISED-LEARNING-REGRESSION,UNIVARIATE-LINEAR-REGRESSION" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush15072002&theme=radical&count_private=true&hide_border=true&langs_count=10&layout=compact&exclude_repo=KNN-algorithm-for-IRIS-dataset,RECOMMENDER-SYSTEM-II,RECOMMENDER-SYSTEM,Salary-prediction,ANOMALY-DETECTION,K-MEANS,Car-Price-Prediction,DECISION-TREE,MULTICLASS-CLASSICATION-WITH-ANN-USING-TENSORFLOW,ANN-LAYERS-WITH-TENSORFLOW-AND-NUMPY,SMALL-NEURAL-NETWORK,CLASSIFICATION-LOGISTIC-REGRESSION-WITH-REGULARIZATION,REGULARIZATION-FOR-LINEAR-AND-LOGISTIC-REGRESSION,LOGISTIC-REGRESSION,Sigmoid-Function-Logistic-Regression,SUPERVISED-LEARNING-REGRESSION,UNIVARIATE-LINEAR-REGRESSION" align="center" />
 </div>
 
-
+<br />
+<br />
 
 <p align="center"> 
   Visitor count<br>
