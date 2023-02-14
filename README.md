@@ -3,7 +3,7 @@
 <!-- ![Welcome](https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/GokuPowerUp.gif) -->
 
 <p align="center">
-  <img src="https://github.com/Piyush15072002/Piyush15072002/blob/master/cover/Matrix.gif" width="80%" alt="GIF" />
+  <img src="https://github.com/PiyushWithPant/PiyushWithPant/blob/master/cover/Matrix.gif" width="80%" alt="GIF" />
 </p>
 
 
@@ -15,7 +15,7 @@
 <br />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Piyush15072002&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=PiyushWithPant&style=flat-square" align="center" />
 </div>  
 
 <hr />
@@ -120,12 +120,12 @@
 <br />
 
 <div align="center">
-<a href="https://github.com/Piyush15072002" target=”_blank”>
+<a href="https://github.com/PiyushWithPant" target=”_blank”>
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
  
-<a href="https://piyush15072002.github.io/" target="_blank">
+<a href="https://PiyushWithPant.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/-My%20Webpage-crimson?&style=for-the-badge&logo=google&logoColor=red alt=MyWebpage style="margin-bottom: 5px;" />
 </a>
  
@@ -150,7 +150,7 @@
 
 <div align="center">
 
-<a href=#><img src="https://github.com/Piyush15072002/Piyush15072002/blob/master/assets/contri.svg"></a>
+<a href=#><img src="https://github.com/PiyushWithPant/PiyushWithPant/blob/master/assets/contri.svg"></a>
 
 </div>
 <br />
@@ -160,13 +160,13 @@
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Piyush15072002&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api?username=PiyushWithPant&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
 </div>
 <br />
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush15072002&theme=radical&count_private=true&hide_border=true&langs_count=10&layout=compact&exclude_repo=KNN-algorithm-for-IRIS-dataset,RECOMMENDER-SYSTEM-II,RECOMMENDER-SYSTEM,Salary-prediction,ANOMALY-DETECTION,K-MEANS,Car-Price-Prediction,DECISION-TREE,MULTICLASS-CLASSICATION-WITH-ANN-USING-TENSORFLOW,ANN-LAYERS-WITH-TENSORFLOW-AND-NUMPY,SMALL-NEURAL-NETWORK,CLASSIFICATION-LOGISTIC-REGRESSION-WITH-REGULARIZATION,REGULARIZATION-FOR-LINEAR-AND-LOGISTIC-REGRESSION,LOGISTIC-REGRESSION,Sigmoid-Function-Logistic-Regression,SUPERVISED-LEARNING-REGRESSION,UNIVARIATE-LINEAR-REGRESSION" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushWithPant&theme=radical&count_private=true&hide_border=true&langs_count=10&layout=compact&exclude_repo=KNN-algorithm-for-IRIS-dataset,RECOMMENDER-SYSTEM-II,RECOMMENDER-SYSTEM,Salary-prediction,ANOMALY-DETECTION,K-MEANS,Car-Price-Prediction,DECISION-TREE,MULTICLASS-CLASSICATION-WITH-ANN-USING-TENSORFLOW,ANN-LAYERS-WITH-TENSORFLOW-AND-NUMPY,SMALL-NEURAL-NETWORK,CLASSIFICATION-LOGISTIC-REGRESSION-WITH-REGULARIZATION,REGULARIZATION-FOR-LINEAR-AND-LOGISTIC-REGRESSION,LOGISTIC-REGRESSION,Sigmoid-Function-Logistic-Regression,SUPERVISED-LEARNING-REGRESSION,UNIVARIATE-LINEAR-REGRESSION" align="center" />
 </div>
 
 <br />
@@ -174,7 +174,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Piyush15072002/count.svg" />
+  <img src="https://profile-counter.glitch.me/PiyushWithPant/count.svg" />
 </p>
 
 
@@ -186,43 +186,43 @@
 
 <div align="center">
   
- <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=AI-for-Self-Driving-Car&theme=highcontrast" align="center" />
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=AI-for-Self-Driving-Car&theme=highcontrast" align="center" />
   &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=yelpcamp&theme=tokyonight" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=yelpcamp&theme=tokyonight" align="center" />
 </div>
 
 <br />
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=NewsApp-Project-ReactJS&theme=merko" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=NewsApp-Project-ReactJS&theme=merko" align="center" />
   &nbsp;&nbsp;&nbsp;&nbsp;
- <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=Annoy-your-Friend-with-wisdom-per-minute&theme=onedark" align="center" /> 
-</div>
-
-
-<br />
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=KNN-algorithm-for-IRIS-dataset&theme=synthwave" align="center" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
- <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=REINFORCEMENT-LEARNING-USING-DQN&theme=cobalt" align="center" /> 
-</div>
-
-<br />
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=The-Infamous-Snake-Game&theme=radical" align="center" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
- <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=Password-Manager&theme=gruvbox" align="center" /> 
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=Annoy-your-Friend-with-wisdom-per-minute&theme=onedark" align="center" /> 
 </div>
 
 
 <br />
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=TextUtils&theme=dark" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=KNN-algorithm-for-IRIS-dataset&theme=synthwave" align="center" />
   &nbsp;&nbsp;&nbsp;&nbsp;
- <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Piyush15072002&repo=ANN-LAYERS-WITH-TENSORFLOW-AND-NUMPY&theme=dracula" align="center" /> 
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=REINFORCEMENT-LEARNING-USING-DQN&theme=cobalt" align="center" /> 
+</div>
+
+<br />
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=The-Infamous-Snake-Game&theme=radical" align="center" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=Password-Manager&theme=gruvbox" align="center" /> 
+</div>
+
+
+<br />
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=TextUtils&theme=dark" align="center" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img style="margin-right:10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=PiyushWithPant&repo=ANN-LAYERS-WITH-TENSORFLOW-AND-NUMPY&theme=dracula" align="center" /> 
 </div>
 
 <br />
