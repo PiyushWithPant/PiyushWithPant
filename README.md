@@ -15,7 +15,7 @@
 <br />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=PiyushWithPant&style=for-the-badge" align="center" />
+<img src="https://komarev.com/ghpvc/?username=PiyushWithPant&style=flat-square" align="center" />
 </div>  
 
 <hr />
