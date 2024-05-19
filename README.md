@@ -8,7 +8,7 @@
 
 
 
-# <div align="center">Machine learning Engineer</div>  
+# <div align="center">Machine learning Enthusiast</div>  
 
 #### <div align="center"> <i> AKA Data Scientist, but Technical </i>  </div> 
 
