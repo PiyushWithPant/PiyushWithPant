@@ -42,11 +42,11 @@ I adore AI, especially intersection of various subsets of AI like NLP & Reinforc
 <hr/>
 
 <div align="center">
-<a href="https://github.com/Piyush15072002" target=”_blank”>
+<a href="https://github.com/PiyushWithPant" target=”_blank”>
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://piyush15072002.github.io/" target="_blank">
+<a href="https://piyushwithpant.github.io/" target="_blank">
 <img src=https://img.shields.io/badge/-My%20Webpage-crimson?&style=for-the-badge&logo=google&logoColor=red alt=MyWebpage style="margin-bottom: 5px;" />
 </a>
  
